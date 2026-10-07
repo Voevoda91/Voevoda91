@@ -7,6 +7,21 @@
   роль, правила цитирования НПА, методология ОПР (матрица вероятность × тяжесть,
   иерархия мер, остаточный риск), шаблоны документов, режимы работы, чек-лист
   самопроверки. Нормативная база зашита по состоянию на **07.10.2026**.
+### Комплект документов по оценке профессиональных рисков (детский сад, 30 должностей)
+
+Готовый к внедрению комплект: [`docs/detskiy-sad-opr/`](docs/detskiy-sad-opr/)
+
+| Файл | Документ |
+|---|---|
+| [`00-sostav-komplekta-i-metodika.md`](docs/detskiy-sad-opr/00-sostav-komplekta-i-metodika.md) | Опись комплекта, нормативная база, шкалы «вероятность × тяжесть», матрица рисков, иерархия мер |
+| [`01-prikazy.md`](docs/detskiy-sad-opr/01-prikazy.md) | Приказы: о комиссии по ОПР, об утверждении Положения, об утверждении Карты рисков и Плана, об ознакомлении работников |
+| [`02-polozhenie-upravlenie-profriskami.md`](docs/detskiy-sad-opr/02-polozhenie-upravlenie-profriskami.md) | Положение о порядке управления профессиональными рисками (раздел СУОТ) |
+| [`03-perechen-rabochih-mest.md`](docs/detskiy-sad-opr/03-perechen-rabochih-mest.md) | Перечень 30 рабочих мест: РПО, СОУТ, медосмотры, психиатрическое освидетельствование, СИЗ |
+| [`04-karta-opasnostey-i-profriskov.md`](docs/detskiy-sad-opr/04-karta-opasnostey-i-profriskov.md) | Карта (реестр) опасностей и рисков: 10 сквозных + по каждой из 30 профессий |
+| [`05-plan-meropriyatiy.md`](docs/detskiy-sad-opr/05-plan-meropriyatiy.md) | План мероприятий по снижению рисков: приоритеты П1–П3, сроки, смета, показатели |
+| [`06-svodnaya-vedomost-i-pokazateli.md`](docs/detskiy-sad-opr/06-svodnaya-vedomost-i-pokazateli.md) | Сводная ведомость, структура рисков, 15 показателей результативности |
+| [`07-oznakomlenie-i-monitoring.md`](docs/detskiy-sad-opr/07-oznakomlenie-i-monitoring.md) | График и листы ознакомления, журнал опасностей, триггеры пересмотра, годовой цикл, чек-лист для ГИТ |
+
 - [`docs/ot-normativnaya-baza-2026.md`](docs/ot-normativnaya-baza-2026.md) — разбор
   нормативных правовых актов по охране труда с изменениями 2025–2026 гг.: ТК РФ,
   426-ФЗ, постановление № 2464 (ред. 2026 г.), приказы Минтруда (776н, 926, 36,

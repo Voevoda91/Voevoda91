@@ -28,6 +28,29 @@
 широкие таблицы (перечень рабочих мест, карта рисков, план, сводная ведомость) —
 в альбомной ориентации.
 
+## Пожарная безопасность: инструкции для объектов защиты (винодельческое предприятие)
+
+Комплект разработан по разделу XVIII Правил противопожарного режима
+(постановление Правительства РФ от 16.09.2020 № 1479, п. 392–394) и приказу
+МЧС России от 12.12.2007 № 645: [`docs/pozharnaya-bezopasnost/`](docs/pozharnaya-bezopasnost/)
+
+| Файл | Документ |
+|---|---|
+| [`00-obshchie-polozheniya.md`](docs/pozharnaya-bezopasnost/00-obshchie-polozheniya.md) | Нормативная база, паспорт и категории 6 объектов, свойства веществ (ЛВЖ, CO₂, картон), ответственные лица, периодичность обучения, общие запреты |
+| [`01 … Административное здание (3 этажа)`](docs/pozharnaya-bezopasnost/01-instruktsiya-1-administrativnoe-zdanie.md) | Инструкция № 1 — Ф4.3, категория В4/Д, класс зоны П-IIа |
+| [`02 … Цех розлива вина`](docs/pozharnaya-bezopasnost/02-instruktsiya-2-ceh-rozliva-vina.md) | Инструкция № 2 — Ф5.1, категория Б, ЛВЖ (вино), термотоннель, заземление |
+| [`03 … Склад готовой продукции`](docs/pozharnaya-bezopasnost/03-instruktsiya-3-sklad-gotovoy-produktsii.md) | Инструкция № 3 — Ф5.2, категория В (картон, этикетки, коробки), тление, нормы штабелей |
+| [`04 … Цех виноматериалов и вина`](docs/pozharnaya-bezopasnost/04-instruktsiya-4-ceh-vinomaterialov-i-vina.md) | Инструкция № 4 — Ф5.1, категория Б, брожение, CO₂ и SO₂, резервуары, CIP-мойка |
+| [`05 … Центральный материальный склад`](docs/pozharnaya-bezopasnost/05-instruktsiya-5-tsentralnyy-materialnyy-sklad.md) | Инструкция № 5 — Ф5.2, категория В + кладовые ЛВЖ/ЛКМ/аэрозолей/баллонов (А/Б), таблица совместимости |
+| [`06 … Цех игристых вин`](docs/pozharnaya-bezopasnost/06-instruktsiya-6-ceh-igristyh-vin.md) | Инструкция № 6 — Ф5.1, категория Б, акратофоры и бутылки под давлением, дегоржаж, CO₂ (удушье), экспедиционный ликёр |
+| [`07-prikaz-ob-utverzhdenii-instruktsiy.md`](docs/pozharnaya-bezopasnost/07-prikaz-ob-utverzhdenii-instruktsiy.md) | Приказ: утверждение инструкций, ответственные по объектам и по п. 394 ППР, периодичность инструктажей и ПТМ, места курения |
+| [`08-poryadok-deystviy-pri-pozhare.md`](docs/pozharnaya-bezopasnost/08-poryadok-deystviy-pri-pozhare.md) | Действия персонала при пожаре, эвакуация, способы тушения по классам, обязанности должностных лиц (п. 394), первая помощь |
+| [`09-zhurnaly-i-prilozheniya.md`](docs/pozharnaya-bezopasnost/09-zhurnaly-i-prilozheniya.md) | 10 журналов, формы нарядов-допусков (огневые, газоопасные), акт проверки систем ПЗ, чек-лист (34 вопроса), схема оповещения, памятка |
+
+**Версии в Word (.docx)** — [`docs/pozharnaya-bezopasnost/word/`](docs/pozharnaya-bezopasnost/word/):
+10 файлов. Формат А4 альбомная ориентация, Times New Roman 10 pt, таблицы
+с границами и повтором строки заголовка на каждой странице.
+
 - [`docs/ot-normativnaya-baza-2026.md`](docs/ot-normativnaya-baza-2026.md) — разбор
   нормативных правовых актов по охране труда с изменениями 2025–2026 гг.: ТК РФ,
   426-ФЗ, постановление № 2464 (ред. 2026 г.), приказы Минтруда (776н, 926, 36,

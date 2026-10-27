@@ -1,0 +1,5 @@
+Python virtualenv (pandoc binary 150 MB — beyond GitHub 100 MB limit)
+.venv/
+venv/
+__pycache__/
+*.pyc

@@ -67,6 +67,43 @@ Times New Roman 12 pt, текстовая форма без таблиц.
 `python3 tools/md2docx.py src.md dst.docx [land] [size]`
 (зависимости: `pip install pypandoc-binary python-docx`).
 
+### Пожарная безопасность: инструкции ООО «ВК САТЕРА» без таблиц
+
+Комплект инструкций о мерах пожарной безопасности для всех шести объектов защиты
+ООО «ВК САТЕРА» **в текстовой форме — без единой таблицы**: заголовок → абзац →
+нумерованный или маркированный список. Разработан по п. 392–394 раздела XVIII
+ПП РФ № 1479 и приказу МЧС России от 16.12.2024 № 1120:
+[`docs/pozharnaya-bezopasnost/vk-satera/`](docs/pozharnaya-bezopasnost/vk-satera/)
+
+| Файл | Документ |
+|---|---|
+| [`00-obshchie-polozheniya.md`](docs/pozharnaya-bezopasnost/vk-satera/00-obshchie-polozheniya.md) | Общие положения: нормативная база, паспорт 6 объектов, свойства веществ, ответственные лица, периодичность обучения, общие запреты |
+| [`01-instruktsiya-1-administrativnoe-zdanie.md`](docs/pozharnaya-bezopasnost/vk-satera/01-instruktsiya-1-administrativnoe-zdanie.md) | Инструкция № 1 — административное здание: Ф4.3, категория В4/Д, класс зоны П-IIа, пожары классов A и E |
+| [`02-instruktsiya-2-ceh-vinomaterialov-i-vina.md`](docs/pozharnaya-bezopasnost/vk-satera/02-instruktsiya-2-ceh-vinomaterialov-i-vina.md) | Инструкция № 2 — цех виноматериалов и вина (без оборота спирта): Ф5.1, категория Б, брожение, CO₂ и SO₂, резервуары, CIP-мойка |
+| [`03-instruktsiya-3-ceh-rozliva.md`](docs/pozharnaya-bezopasnost/vk-satera/03-instruktsiya-3-ceh-rozliva.md) | Инструкция № 3 — цех розлива: Ф5.1, категория Б, зона В-Iа/П-IIа, ЛВЖ (вино), термотоннель, заземление |
+| [`04-instruktsiya-4-ceh-igristyh-vin.md`](docs/pozharnaya-bezopasnost/vk-satera/04-instruktsiya-4-ceh-igristyh-vin.md) | Инструкция № 4 — цех игристых вин: Ф5.1, категория Б, акратофоры, дегоржаж, CO₂ (удушье), экспедиционный ликёр, жидкий азот |
+| [`05-instruktsiya-5-sklad-gotovoy-produktsii.md`](docs/pozharnaya-bezopasnost/vk-satera/05-instruktsiya-5-sklad-gotovoy-produktsii.md) | Инструкция № 5 — склад готовой продукции: Ф5.2, категория В, скрытое тление картона, нормы штабелей |
+| [`06-instruktsiya-6-tsentralnyy-materialnyy-sklad.md`](docs/pozharnaya-bezopasnost/vk-satera/06-instruktsiya-6-tsentralnyy-materialnyy-sklad.md) | Инструкция № 6 — центральный материальный склад: Ф5.2, категория В + кладовые ЛВЖ/ЛКМ (А/Б), несовместимые вещества, баллоны, аэрозоли, Li-ion |
+| [`07-poryadok-deystviy-pri-pozhare-i-evakuacii.md`](docs/pozharnaya-bezopasnost/vk-satera/07-poryadok-deystviy-pri-pozhare-i-evakuacii.md) | Порядок действий при обнаружении пожара и порядок эвакуации: алгоритм из 13 шагов, запреты, обязанности руководителя эвакуации, способы тушения по материалам, обязанности должностных лиц по п. 394 ППР, сведения об опасных веществах, первая помощь |
+| [`08-zhurnaly-naryady-dopuski-pamyatka.md`](docs/pozharnaya-bezopasnost/vk-satera/08-zhurnaly-naryady-dopuski-pamyatka.md) | Формы документов: 5 журналов, лист ознакомления, наряды-допуски (огневые, газоопасные), акт проверки систем ПЗ, чек-лист объекта (34 вопроса), схема оповещения, памятка работнику |
+| [`09-prikaz-ob-utverzhdenii-instruktsiy.md`](docs/pozharnaya-bezopasnost/vk-satera/09-prikaz-ob-utverzhdenii-instruktsiy.md) | Приказ: утверждение инструкций, ответственные по объектам и по п. 394 ППР, периодичность инструктажей (6 мес. / 1 год), обучение по ДПП, места курения, противопожарный режим |
+
+Каждая из инструкций № 1–6 содержит 16 разделов по п. 393 ППР № 1479: область
+применения; характеристика пожарной опасности; обязанности и действия при пожаре;
+содержание территории и путей эвакуации; эксплуатация оборудования и
+пожароопасные работы; хранение и транспортировка пожаровзрывоопасных веществ;
+осмотр и закрытие помещений; места курения, применения открытого огня, проезда
+и огневых работ; сбор и удаление горючих веществ и спецодежды; допустимое
+количество сырья и продукции; периодичность уборки и хранение ветоши; предельные
+показания КИП; первичные средства и автоматика; инструктаж и обучение; запреты;
+ответственность + блок согласования.
+
+**Версии в Word (.docx)** — [`docs/pozharnaya-bezopasnost/vk-satera/word/`](docs/pozharnaya-bezopasnost/vk-satera/word/):
+11 файлов — 10 отдельных документов + сводный
+[`Комплект_инструкций_ВК_САТЕРА.docx`](docs/pozharnaya-bezopasnost/vk-satera/word/Комплект_инструкций_ВК_САТЕРА.docx)
+(все документы одним файлом, разрыв страницы перед каждым разделом; 1422 абзаца,
+**0 таблиц**). Формат А4 книжная ориентация, Times New Roman 12 pt.
+
 ## Обращение с отходами: инструкции для ООО «ХЕРСОНСКИЕ НАПИТКИ №1»
 
 Комплект из **15 инструкций по обращению с отходами** I–V классов опасности

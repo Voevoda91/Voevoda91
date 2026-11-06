@@ -104,6 +104,36 @@ Times New Roman 12 pt, текстовая форма без таблиц.
 (все документы одним файлом, разрыв страницы перед каждым разделом; 1422 абзаца,
 **0 таблиц**). Формат А4 книжная ориентация, Times New Roman 12 pt.
 
+#### Программы противопожарного инструктажа на рабочем месте
+
+Пообъектные программы первичного (повторного, внепланового, целевого)
+противопожарного инструктажа на рабочем месте — содержание, объём в часах с
+разбивкой по темам, практические занятия, контрольные вопросы и критерии зачёта:
+[`docs/pozharnaya-bezopasnost/vk-satera/programmy/`](docs/pozharnaya-bezopasnost/vk-satera/programmy/)
+
+| Файл | Документ |
+|---|---|
+| [`00-obshchie-trebovaniya-k-programmam.md`](docs/pozharnaya-bezopasnost/vk-satera/programmy/00-obshchie-trebovaniya-k-programmam.md) | Виды, цели и сроки инструктажей; кто проводит; 8 шагов проведения; стажировка и допуск; требования к содержанию программы (приложение № 2 к приказу МЧС № 1120); единый учебный план; учёт и контроль |
+| [`01 … административное здание`](docs/pozharnaya-bezopasnost/vk-satera/programmy/01-programma-ppi-na-rabochem-meste-administrativnoe-zdanie.md) | Программа № 1 — 1 ак. ч (теория 30 / практика 10 / контроль 5), 9 тем, 13 контрольных вопросов, повторный инструктаж 1 раз в год |
+| [`02 … цех виноматериалов и вина`](docs/pozharnaya-bezopasnost/vk-satera/programmy/02-programma-ppi-na-rabochem-meste-ceh-vinomaterialov-i-vina.md) | Программа № 2 — 2 ак. ч, 10 тем, 5 практических занятий, 15 контрольных вопросов, ЛВЖ + CO₂/SO₂, наряд-допуск на вход в резервуар |
+| [`03 … цех розлива`](docs/pozharnaya-bezopasnost/vk-satera/programmy/03-programma-ppi-na-rabochem-meste-ceh-rozliva.md) | Программа № 3 — 2 ак. ч, 10 тем, термотоннель (t > 90 °C), конвейеры, заземление, 15 контрольных вопросов |
+| [`04 … цех игристых вин`](docs/pozharnaya-bezopasnost/vk-satera/programmy/04-programma-ppi-na-rabochem-meste-ceh-igristyh-vin.md) | Программа № 4 — 2 ак. ч, 10 тем, сосуды под давлением (акратофоры, бутылки 0,5–0,7 МПа), CO₂, жидкий азот, 15 контрольных вопросов |
+| [`05 … склад готовой продукции`](docs/pozharnaya-bezopasnost/vk-satera/programmy/05-programma-ppi-na-rabochem-meste-sklad-gotovoy-produktsii.md) | Программа № 5 — 2 ак. ч, 10 тем, отдельная тема «скрытое тление», отработка проливки штабеля, 15 контрольных вопросов |
+| [`06 … ЦМС`](docs/pozharnaya-bezopasnost/vk-satera/programmy/06-programma-ppi-na-rabochem-meste-tsentralnyy-materialnyy-sklad.md) | Программа № 6 — 2 ак. ч, 10 тем, несовместимость веществ, баллоны, аэрозоли, аккумуляторы, 15 контрольных вопросов |
+| [`07-prikaz-ob-utverzhdenii-programm-ppi.md`](docs/pozharnaya-bezopasnost/vk-satera/programmy/07-prikaz-ob-utverzhdenii-programm-ppi.md) | Приказ: утверждение программ, периодичность 6 мес. / 1 год, лица, проводящие инструктажи, учёт |
+
+Каждая программа построена по одной схеме: область применения → категория
+обучаемых (перечень должностей) → цель и задачи → объём и форма обучения →
+планируемые результаты (знать / уметь) → учебный план → содержание тем →
+практические занятия → контрольные вопросы с критерием зачёта →
+материально-техническое и учебно-методическое обеспечение → учёт результатов →
+ответственность + блок согласования.
+
+**Версии в Word (.docx)** — [`docs/pozharnaya-bezopasnost/vk-satera/programmy/word/`](docs/pozharnaya-bezopasnost/vk-satera/programmy/word/):
+9 файлов — 8 отдельных документов + сводный
+[`Программы_инструктажей_на_рабочем_месте_ВК_САТЕРА.docx`](docs/pozharnaya-bezopasnost/vk-satera/programmy/word/Программы_инструктажей_на_рабочем_месте_ВК_САТЕРА.docx)
+(1094 абзаца, **0 таблиц**). Формат А4 книжная ориентация, Times New Roman 12 pt.
+
 ## Обращение с отходами: инструкции для ООО «ХЕРСОНСКИЕ НАПИТКИ №1»
 
 Комплект из **15 инструкций по обращению с отходами** I–V классов опасности

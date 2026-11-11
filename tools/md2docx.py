@@ -47,7 +47,7 @@ def main():
         ref = os.path.join(td, 'ref.docx')
         ref_doc(ref, landscape, size)
         pypandoc.convert_file(
-            src, 'docx', format='markdown', outputfile=dst,
+            src, 'docx', format='markdown-yaml_metadata_block', outputfile=dst,
             extra_args=['--reference-doc=' + ref, '--wrap=none'],
         )
 
